@@ -1,0 +1,1 @@
+java -jar csc332.jar
